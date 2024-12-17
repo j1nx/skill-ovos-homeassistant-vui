@@ -9,7 +9,7 @@ Home Assistant is an open-source platform for automating smart home devices. It 
 
 ** Note: This skill does not directly talk to any homeAssistant instance. It needs the phal plugin installed and setup before this skill can be useful. **
 
-** Note: This is very much *WIP* and does not still provide the full functionality for every device, currently it only supports turning on and turning of devices and light devices control, others are work in progress. **
+** Note: This is very much *WIP* and does not still provide the full functionality for every device, currently it only supports turning on and turning off devices and light devices control, others are work in progress. **
 
 ## Examples
 * "turn on the bedroom lights"
